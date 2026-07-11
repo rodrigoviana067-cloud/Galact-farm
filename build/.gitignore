@@ -1,0 +1,13 @@
+node_modules
+.env
+.env.local
+*.log
+*.bak
+*.bak2
+*.bak3
+*.bak4
+*.zip
+fix_*.py
+.vercel
+build/static/js/*.map
+build/static/css/*.map
