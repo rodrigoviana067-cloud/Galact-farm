@@ -10,3 +10,4 @@ node_modules
 .vercel
 build/static/js/*.map
 build/static/css/*.map
+fix_app.py
